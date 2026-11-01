@@ -1,6 +1,6 @@
 # Matthias Hloucha
 
-Data Scientist with a background in Physical Chemistry and a passion for Digital Art.
+Data Scientist with a background in Computational and Physical Chemistry and a passion for Digital Art.
 
 ### Focus
 - **Interests:** Data Science, Physical Chemistry, Digital Art
