@@ -2,7 +2,7 @@
 
 Data Scientist with a background in Physical Chemistry and a passion for Digital Art.
 
-### Focus & Tech Stack
+### Focus and Tech Stack
 - **Interests:** Data Science, Physical Chemistry, Digital Art
 - **Tools:** Python, Linux, JMP, Foundry
 
