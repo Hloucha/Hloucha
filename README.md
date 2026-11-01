@@ -1,4 +1,4 @@
-# Matthias Hloucha | Profile
+# Matthias Hloucha
 
 Data Scientist with a background in Physical Chemistry and a passion for Digital Art.
 
