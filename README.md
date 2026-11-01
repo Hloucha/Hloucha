@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Matthias @Hloucha
-- 👀 I’m interested in Data Science, Physical Chemistry and Digital Art
-- 🌱 I’m working with Linux, Python, JMP, Foundry
+# Matthias Hloucha | Profile
 
-<!---
-Hloucha/Hloucha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Scientist with a background in Physical Chemistry and a passion for Digital Art.
+
+### Focus & Tech Stack
+- **Interests:** Data Science, Physical Chemistry, Digital Art
+- **Tools:** Python, Linux, JMP, Foundry
+
+### Connect
+- **Website:** [hloucha.de](https://www.hloucha.de/)
+- **LinkedIn:** [Matthias Hloucha](https://www.linkedin.com/in/matthias-hloucha-6168211b6/)
